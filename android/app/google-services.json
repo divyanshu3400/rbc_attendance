@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "463273095625",
+    "project_id": "rbc-attendance",
+    "storage_bucket": "rbc-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463273095625:android:6bb81f3bea841bc1437818",
+        "android_client_info": {
+          "package_name": "com.example.rbc_atted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463273095625-rjrln9i0j7t1fhvmi733tshpmn0cqd7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rbc_atted",
+            "certificate_hash": "e5e441db8378ed43df1751e899918122857c94e8"
+          }
+        },
+        {
+          "client_id": "463273095625-41krj3gnue3tu2t5nci85n4fjoe36r0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzY4eFiGV98X3yRWijfrBib5vFJrtsBEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463273095625-41krj3gnue3tu2t5nci85n4fjoe36r0g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463273095625-3kq7lkjq51gljjuhinsdvdonb07p6saa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rbcAtted"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
